@@ -1,0 +1,10 @@
+loops: keep running the code blocks unless the condition is false.
+
+Two loops:  for, while (In general)
+Six loops: for, for_in,  for_of,  while, do_while,  forEach (javScripts)
+
+for loop:
+
+for (initialize iterator; condition; final experession){
+    // statements
+}

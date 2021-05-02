@@ -1,0 +1,13 @@
+task: 1.1:
+----------------------------------------------
+design a calender that shows the number of days in months of a year. Like this:
+
+2021:
+jan,mar,may,jul,aug,oct,dec 31 days
+feb 28 days
+apr, jun,sep,nov 30 days 
+
+
+task 1.2
+----------------------------------------------
+print the calender in task 1.1 for next 20 years.

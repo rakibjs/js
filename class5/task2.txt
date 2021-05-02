@@ -1,0 +1,10 @@
+Design a calculator which have the following features:
+
+-> it takes two numbers and an operation instrunction.
+-> based on the istruction is perform that calculation between these two numbers.
+
+-> operation instructions:
+        add, subtract, multiply, division, modulus (remainder)
+
+-> use switch statement to design the calculator.
+

@@ -1,0 +1,16 @@
+Math, Phy, Chem, Bio
+
+number range:
+0 - 100
+
+Grades: 
+avg. mark >= 80:  A 
+avg. mark >= 70:  B 
+avg. mark >= 60:  C
+avg. mark >= 50:  D
+avg. mark  > 50:  F   
+
+write a program to evalute a student and give him/her a grade depending on their avarage 
+marks obtained. 
+
+
