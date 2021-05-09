@@ -8,3 +8,21 @@ for loop:
 for (initialize iterator; condition; final experession){
     // statements
 }
+
+obj = {
+    'name': 'Mark',
+    'age' : 25,
+    'nationality': 'English',
+    'job': 'Banker',
+}
+
+obj.name || obj['name']
+
+array = [
+    'Mark', 
+    '25', 
+    'English', 
+    'Banker'
+];
+
+array[0]

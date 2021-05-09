@@ -1,0 +1,2 @@
+calculate factorial of a given number.
+use as many loop as you need.
