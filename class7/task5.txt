@@ -1,0 +1,35 @@
+bubble sort alogrithm.
+
+Before runnig bubble sort:
+[4, 9, 2, 6, 7]
+
+after running bubble sort:
+[2, 4, 6, 7, 9]
+or
+[9, 7, 6, 4, 2]
+
+
+Hint:
+take first two elements(numers) and compare them and put them in places according to their value.
+for example:
+[4, 9, 2, 6, 7] >>>> 1
+[4, 2, 9, 6, 7] >>>> 2
+[4, 2, 9, 6, 7] >>>> 3
+
+[2, 4, 9, 6, 7] >>>> 1
+[2, 4, 9, 6, 7] >>>> 2
+[2, 4, 9, 6, 7] >>>> 3
+
+[2, 4, 9, 6, 7] >>>> 1
+[2, 4, 6, 9, 7] >>>> 2
+[2, 4, 6, 9, 7] >>>> 3
+
+[2, 4, 9, 6, 7] >>>> 1
+[2, 4, 6, 9, 7] >>>> 2
+[2, 4, 6, 7, 9] >>>> 3
+
+[2, 4, 6, 7, 9] >>>> 1
+[2, 4, 6, 7, 9] >>>> 2
+[2, 4, 6, 7, 9] >>>> 3
+
+
