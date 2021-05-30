@@ -1,4 +1,4 @@
-const num1 = 90;
+const num1 = 10;
 const num2 = 30;
 const num3 = 5;
 
@@ -19,6 +19,13 @@ if(max(num1, num2)){
 //         return false;
 //     }
 // }
+
+// const max = (number1, number2) => number1 > number2;
+
+// console.log(max(50, 30));
+
+
+
 
 
 
