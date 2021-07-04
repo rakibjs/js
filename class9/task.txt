@@ -1,0 +1,7 @@
+create a class called Burger,
+
+property of the class == bread, meat(chinken, beef, lamb), cheese (), salad () 
+
+order () === 
+
+serve ()

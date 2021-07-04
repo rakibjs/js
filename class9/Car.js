@@ -12,9 +12,9 @@ class Car{
         console.log(this.color);
         console.log(this.type);
     }
-
-
 }
+
+module.exports = Car;
 
 
 
