@@ -8,6 +8,7 @@ class Car{
     }
 
     showDetails(){
+        console.log('I am runnunbg from Car class.')
         console.log(this.greetings);
         console.log(this.color);
         console.log(this.type);
